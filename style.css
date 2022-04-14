@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to right, rgb(24, 154, 197),#0062ff, #012d74 );
+}
+
+h1{
+
+
+    color: rgb(18, 18, 180);
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 41px;
+}
+
+h4{
+color: #320380;
+text-align: center;
+font-family: 'Fredoka', sans-serif;
+margin-bottom: 50px;
+}
+
+img{
+    padding-left: 505px;
+}
+
+a{
+    font-family: 'Finger Paint', cursive;
+    background-color: black;
+    color: aqua;
+    padding: 0px 15;
+}
+topnav active{
+    text-decoration: wavy;
+}
