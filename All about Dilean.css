@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to left, red, yellow);
+}
+h1{
+    color: rgba(177, 3, 3, 0.905);
+    text-align: center;
+}
+a{
+    font-family: 'Finger Paint', cursive;
+    background-color: black;
+    color: aqua;
+    padding: 0px 15;
+}
