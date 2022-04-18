@@ -10,4 +10,31 @@ a{
     background-color: black;
     color: aqua;
     padding: 0px 15;
+    text-decoration: none;
+}
+li{
+    text-decoration: line-through;
+    background-color: black;
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+not special{
+    background-color: transparent;
+    color: darkred;
+}
+p{
+    color: darkred;
+}
+a:hover{
+    text-decoration: underline;
+}
+hr {
+    width: 50%; 
+    margin-left: auto;
+    margin-right: auto;
+   background: red;
+   height: 8px;
+   border: 0px;
 }

@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to left, blue, blueviolet, pink );
+}
+h1{
+    color: #440b8b;
+    text-align: center;
+}
